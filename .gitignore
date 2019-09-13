@@ -1,0 +1,6 @@
+built
+node_modules
+pxt_modules
+*.db
+*.tgz
+.header.json

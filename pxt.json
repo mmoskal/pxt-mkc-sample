@@ -1,0 +1,16 @@
+{
+    "name": "untitled",
+    "version": "0.0.0",
+    "description": "An empty MakeCode Arcade project",
+    "dependencies": {
+        "device": "*",
+        "pxt-circuit-playground-character-icons": "github:adafruit/circuit-playground-character-icons#v0.0.6"
+    },
+    "files": [
+        "main.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "public": true
+}
